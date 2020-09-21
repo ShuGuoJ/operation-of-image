@@ -5,4 +5,5 @@
 ![image](img/page2.PNG)
 ![image](img/page3.PNG)
 ![image](img/page4.PNG)
-![image](img/page5.PNG)
+![image](img/page5.PNG)  
+[图像操作](图像操作.pdf)
