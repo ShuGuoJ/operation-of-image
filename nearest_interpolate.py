@@ -1,4 +1,5 @@
-'''implementation of bilinear interploate'''
+'''最近邻插值法'''
+'''implementation of nearest interpolate'''
 import numpy as np
 
 def nearest_interpolate(img, size):
